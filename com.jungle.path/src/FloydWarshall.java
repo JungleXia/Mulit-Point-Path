@@ -122,5 +122,7 @@ class FloydWarshall {
         // 测试路径输出
         fw.printPath(0, 19);
         fw.printPath(3, 16);
+
+        System.out.printf(a)
     }
 }
